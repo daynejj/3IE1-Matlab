@@ -6,7 +6,7 @@
 _**Not a big fan of Justin Bieber but I'll try**_
 
 Here's a pic of Bieber:
-  ![Hehe](https://i.kym-cdn.com/photos/images/newsfeed/000/096/044/trollface.jpg?1296494117)
+  ![Hehe](https://cdn.gamerant.com/wp-content/uploads/shaggy-rogers-738x410.jpg.optimal.jpg)
 
 1. A list of Bieber's Songs:
     1. Baby
