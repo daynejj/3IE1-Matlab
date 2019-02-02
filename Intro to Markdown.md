@@ -19,7 +19,8 @@ Here's a pic of Bieber:
   *Place of Birth: Canada
   *
   
-Here's a [link](https://en.wikipedia.org/wiki/Justin_Bieber) to find out about him
+Here's a [link](https://i.kym-cdn.com/photos/images/newsfeed/000/096/044/trollface.jpg?1296494117) to find out about him
+  - I promise I'm not trolling you 
 
 Some More Info on his songs:
 
