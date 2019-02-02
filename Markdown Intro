@@ -1,0 +1,37 @@
+#Introduction to Markdown
+
+*Italics are fancy*
+**Bold is punchy**
+
+_**Not a big fan of Justin Bieber but I'll try**_
+
+Here's a pic of Bieber:
+  ![GitHub Logo](/images/logo.png)
+  Format: ![Alt Text](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjM5b7i5Z3gAhUEWN8KHU-3CqgQjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Ftrollface&psig=AOvVaw3el8zeZ9jTvY9Nh-04A_5q&ust=1549222520719656)
+
+1. A list of Bieber's Songs:
+    1. Baby
+    1. Cold Water
+    1. ...
+    1. Like I said, not a big fan
+    
+* Some more facts about Biebs
+  *Date of birth: he looks a bit old
+  *Place of Birth: Canada
+  *
+  
+Here's a [link](https://en.wikipedia.org/wiki/Justin_Bieber) to find out about him
+
+Some More Info on his songs:
+
+Song|Year Released
+----|-------------
+All Around The World | 2012
+All Bad | 2013
+All I Want Is You | 2011
+All In It | 2015
+All That Matters | 2013
+As Long As You Love Me | 2012
+Baby | 2010
+
+Here's to hoping this looks nice :smile:
